@@ -1,0 +1,18 @@
+DB info in ezsql.php
+
+Needs ffmpeg and imagemagick to be installed
+
+Load schema.sql into a MySQL database
+
+The file cron.php needs to be called as a cron.  
+
+
+About this app:
+
+It was installed on bluehost.com, so there's some limitations to the # of pics that can be made into a video.  Basically, bluehost had a limit on the amount of time a job can run.
+
+This is a web app which authenticates your Smugmug and YouTube accounts, and then takes selected albums (or everything) and puts it in a video on YouTube.
+
+Here's an example:
+
+http://www.youtube.com/watch?v=8W92UrUdvNY 
